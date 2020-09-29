@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering school in applied mathematics and computer science, ENSIMAG Grenoble, 2016-2019
+* Master of Science, industtrial and applied mathematics, Grenoble Alpes University, 2018-2019
+* Ph.D in Numerical Analysis of Schwarz Methods, Grenoble Alpes University, 2019-2022
 
 Work experience
 ======
