@@ -11,31 +11,24 @@ redirect_from:
 
 Education
 ======
-* Engineering school in applied mathematics and computer science, ENSIMAG Grenoble, 2016-2019
-* Master of Science, industtrial and applied mathematics, Grenoble Alpes University, 2018-2019
+* Engineering school, Applied Mathematics and Computer Sscience, ENSIMAG Grenoble, 2016-2019
+* Master of Science, Industrial and Applied Mmathematics, Grenoble Alpes University, 2018-2019
 * Ph.D in Numerical Analysis of Schwarz Methods, Grenoble Alpes University, 2019-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Internship: Application of data learning algorithms on an atmosphere column model
+  * NERSC, Bergen, NORWAY
+  * 3 months
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019: Intership: Discrete analysis of the Schwarz algorithm in an ocean-atmosphere coupling
+  * Jean Kuntzmann Laboratory, Grenoble, FRANCE
+  * 5 months
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* 2019-2022: PhD: Numerical analysis for the reconciliation in space and time of the discretizations of the air-sea exchanges and their parameterization
+  * Jean Kuntzmann Laboratory, Grenoble, FRANCE
+  * Supervisors: Eric BLAYO, Florian LEMARIÉ
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +47,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
