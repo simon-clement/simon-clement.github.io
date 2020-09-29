@@ -4,7 +4,7 @@ collection: teaching
 type: "Preparatory Class"
 permalink: /teaching/2017-prepa
 venue: "INP Preparatory Class"
-date: 2019-2020
+date: 2017
 location: "Grenoble, FRANCE"
 ---
 
