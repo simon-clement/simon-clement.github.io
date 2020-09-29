@@ -29,17 +29,17 @@ Work experience
   * Jean Kuntzmann Laboratory, Grenoble, FRANCE
   * Supervisors: Eric BLAYO, Florian LEMARIÉ
   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[//]: # Publications
+[//]: # ======
+[//]: #  <ul>{% for post in site.publications %}
+[//]: #    {% include archive-single-cv.html %}
+[//]: #  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[//]: # Talks
+[//]: # ======
+[//]: #  <ul>{% for post in site.talks %}
+[//]: #    {% include archive-single-talk-cv.html %}
+[//]: #  {% endfor %}</ul>
   
 Teaching
 ======
