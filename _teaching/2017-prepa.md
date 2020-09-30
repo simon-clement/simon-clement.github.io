@@ -9,4 +9,4 @@ location: "Grenoble, FRANCE"
 ---
 
 Mathematics exercices workshop.
-This course is over but if you are interested, here are wonderful (but French) online resources: [mpsi.tuxfamily.org/] (https://mpsi.tuxfamily.org/)
+This course is over but if you are interested, here are wonderful (but French) online resources: [mpsi.tuxfamily.org/](https://mpsi.tuxfamily.org/)
