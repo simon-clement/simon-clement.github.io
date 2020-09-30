@@ -1,11 +1,11 @@
 ---
 title: "Exercises Workshop"
 collection: teaching
-type: "Preparatory Class"
+type: "Undergrad Class"
 permalink: /teaching/2017-prepa
-venue: "INP Preparatory Class"
+venue: "*La Prépa des INP*"
 date: 2017-01-09
 location: "Grenoble, FRANCE"
 ---
 
-Mathematics exercices worrkshop. 
+Mathematics exercices workshop. 

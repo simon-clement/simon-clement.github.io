@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Engineering school, Applied Mathematics and Computer Sscience, ENSIMAG Grenoble, 2016-2019
-* Master of Science, Industrial and Applied Mmathematics, Grenoble Alpes University, 2018-2019
+* Engineering school, Applied Mathematics and Computer Science, ENSIMAG Grenoble, 2016-2019
+* Master of Science, Industrial and Applied Mathematics, Grenoble Alpes University, 2018-2019
 * Ph.D in Numerical Analysis of Schwarz Methods, Grenoble Alpes University, 2019-2022
 
 Work experience
 ======
-* 2018: Internship: Application of data learning algorithms on an atmosphere column model
+* 2018: Research Assistant: Application of state of the art data assimilation algorithms on an atmosphere column model
   * NERSC, Bergen, NORWAY
   * 3 months
 
-* 2019: Intership: Discrete analysis of the Schwarz algorithm in an ocean-atmosphere coupling
+* 2019: Research Assistant: Discrete analysis of the Schwarz algorithm in an ocean-atmosphere coupling
   * Jean Kuntzmann Laboratory, Grenoble, FRANCE
   * 5 months
   
