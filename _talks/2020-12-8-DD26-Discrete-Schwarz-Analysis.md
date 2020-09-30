@@ -1,5 +1,5 @@
 ---
-title: "Discrete Schwarz Analysis: why does it matter?"
+title: "Discrete Schwarz Analysis: why would we do such thing?"
 collection: talks
 type: "Talk"
 venue: "DD26, Minisymposia: Heterogeneous Domain Decomposition Methods: Theoretical Developments and New Applications"
