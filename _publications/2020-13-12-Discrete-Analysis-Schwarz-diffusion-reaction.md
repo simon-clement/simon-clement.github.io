@@ -3,7 +3,7 @@ title: "Discrete Analysis of Schwarz Waveform Relaxation for a Diffusion Reactio
 collection: publications
 # permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Work in progress'
-date: 2020-13-12
+date: 2020-12-13
 venue: '1'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Clement, S., Lemarié, F., Blayo, E. (2021). &quot;Discrete Analysis of Schwarz Waveform Relaxation for a Diffusion Reaction problem with Discontinuous Coefficients.&quot; <i>In redaction</i>.'
