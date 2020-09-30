@@ -1,5 +1,4 @@
--
--
+---
 title: "Discrete Schwarz Analysis: why does it matter?"
 collection: talks
 type: "Talk"
