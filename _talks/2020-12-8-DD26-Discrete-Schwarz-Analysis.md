@@ -1,5 +1,5 @@
 ---
-title: "Discrete Schwarz Analysis: why does it matter?
+title: "Discrete Schwarz Analysis: why does it matter?"
 collection: talks
 type: "Talk"
 permalink: https://www.math.cuhk.edu.hk/conference/dd26/?Scientific_Program-Minisymposia
