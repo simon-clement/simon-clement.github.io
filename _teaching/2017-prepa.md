@@ -1,9 +1,9 @@
 ---
 title: "Exercises Workshop"
 collection: teaching
-type: "Undergrad Class"
+type: "Undergraduate Class"
 permalink: /teaching/2017-prepa
-venue: "*La Prépa des INP*"
+venue: "\*La Prépa des INP\*"
 date: 2017-01-09
 location: "Grenoble, FRANCE"
 ---
