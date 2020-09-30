@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Inserer texte ici
+I am a PhD student in the Laboratoire Jean Kuntzmann (LJK, Grenoble, France).
+I am part of the AIRSEA team, which is oriented towards the understanding (mathematically and numerically) of the ocean atmosphere system.
+The goal of my PhD is to use [Schwarz coupling methods](https://en.wikipedia.org/wiki/Schwarz_alternating_method) while taking
+into account the physical constraints specific to the interface between the ocean and atmosphere.
+
+I also teach at the DLST (MAT104, Mathematics tools for physics).
+
+My contact adress is [First Name].[Last Name]@grenoble-inp.org.
