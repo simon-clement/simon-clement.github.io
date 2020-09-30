@@ -12,4 +12,3 @@ Semi-Discrete and Discrete analyses of the convergence of Schwarz algorithm. Fea
 
 [//]: # [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Clement, S., Lemarié, F., Blayo, E. (2021). &quot;Discrete Analysis of Schwarz Waveform Relaxation for a Diffusion Reaction problem with Discontinuous Coefficients.&quot; <i>In redaction</i>.

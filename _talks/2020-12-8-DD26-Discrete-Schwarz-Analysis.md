@@ -3,8 +3,9 @@ title: "Discrete Schwarz Analysis: why does it matter?"
 collection: talks
 type: "Talk"
 venue: "DD26, Minisymposia: Heterogeneous Domain Decomposition Methods: Theoretical Developments and New Applications"
-date: 2020-12-8
+date: 2020-12-08
 location: "Online"
+link: https://www.math.cuhk.edu.hk/conference/dd26/?Scientific_Program-Minisymposia
 ---
 
 Schwarz alternating methods arise naturally when considering
@@ -18,4 +19,3 @@ closer to those numerically observed.
 By considering two coupled reaction-diffusion equation with different diffusivities, this talk explores the
 features of discrete and semi-discrete analyses, and compares them to the continuous setting.
 
-<link href=https://www.math.cuhk.edu.hk/conference/dd26/?Scientific_Program-Minisymposia title="Minisymposia Presentation">
