@@ -8,4 +8,5 @@ date: 2017-01-09
 location: "Grenoble, FRANCE"
 ---
 
-Mathematics exercices workshop. 
+Mathematics exercices workshop.
+This course is over but if you are interested, here are wonderful (but French) online resources: [mpsi.tuxfamily.org/] (https://mpsi.tuxfamily.org/)
