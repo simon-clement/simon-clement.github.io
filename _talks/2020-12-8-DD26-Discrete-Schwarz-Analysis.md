@@ -5,7 +5,6 @@ type: "Talk"
 venue: "DD26, Minisymposia: Heterogeneous Domain Decomposition Methods: Theoretical Developments and New Applications"
 date: 2020-12-08
 location: "Online"
-link: https://www.math.cuhk.edu.hk/conference/dd26/?Scientific_Program-Minisymposia
 ---
 
 Schwarz alternating methods arise naturally when considering
